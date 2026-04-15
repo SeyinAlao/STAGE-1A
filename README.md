@@ -1,7 +1,6 @@
 # Stage 1a: Advanced Todo Card
 
-**Live URL:** [Insert your Live URL here]
-**GitHub Repository:** [Insert your GitHub Repo link here]
+**Live URL:** https://seyinalao.github.io/STAGE-1A/
 
 ## Overview
 This project is an interactive, stateful Todo Card component built for Stage 1a. It builds upon the static Stage 0 card by introducing state management, edit capabilities, dynamic time calculations, and richer accessibility patterns.
